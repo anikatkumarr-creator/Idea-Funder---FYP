@@ -28,7 +28,7 @@ Idea Funder is a full-stack platform built to help students and faculty display 
 ## 🎥 Demonstration
 The core code for this project is available in this repository. 
 
-**[Click here to watch the full video demonstration of the project]([PASTE_YOUR_LINK_HERE](https://drive.google.com/drive/folders/12gHW464GHZrM2i0tFdNullk_If7MwMuR?usp=sharing))**
+**[Click here to watch the full video demonstration of the project](https://drive.google.com/drive/folders/12gHW464GHZrM2i0tFdNullk_If7MwMuR?usp=sharing)**
 
 This video showcases the user registration, project verification workflow, and the swipe-based investor UI in action.
 
